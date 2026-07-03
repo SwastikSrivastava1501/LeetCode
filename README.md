@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0037-sudoku-solver) |
+| [1240-tiling-a-rectangle-with-the-fewest-squares](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1240-tiling-a-rectangle-with-the-fewest-squares) |
 ## Matrix
 |  |
 | ------- |
