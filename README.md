@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0213-house-robber-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0217-contains-duplicate) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
