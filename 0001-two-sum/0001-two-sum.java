@@ -7,12 +7,12 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             int complement = target - nums[i];
 
-            // If complement is already seen, return its index and current index
+            
             if (map.containsKey(complement)) {
                 return new int[] { map.get(complement), i };
             }
 
-            // Store current number and its index
+            
             map.put(nums[i], i);
         }
 
