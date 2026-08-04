@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0213-house-robber-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0217-contains-duplicate) |
+| [3731-find-missing-elements](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
