@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0704-binary-search) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
