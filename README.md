@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -93,4 +96,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
