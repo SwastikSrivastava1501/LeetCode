@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0051-n-queens) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/3731-find-missing-elements) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/3731-find-missing-elements) |
@@ -78,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
