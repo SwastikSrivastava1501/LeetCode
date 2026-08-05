@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Interactive
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
