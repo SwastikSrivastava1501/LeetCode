@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0217-contains-duplicate) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0441-arranging-coins) |
