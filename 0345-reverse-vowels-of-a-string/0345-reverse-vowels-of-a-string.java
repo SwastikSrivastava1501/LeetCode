@@ -1,6 +1,5 @@
 class Solution {
     public String reverseVowels(String s) {
-
         char[] arr = s.toCharArray();
 
         int left = 0;
@@ -16,20 +15,26 @@ class Solution {
                 right--;
             }
 
-            char temp = arr[left];
-            arr[left] = arr[right];
-            arr[right] = temp;
+            if (left < right) {
+                char temp = arr[left];
+                arr[left] = arr[right];
+                arr[right] = temp;
 
-            left++;
-            right--;
+                left++;
+                right--;
+            }
         }
 
         return new String(arr);
     }
 
     private boolean isVowel(char c) {
-        c = Character.toLowerCase(c);
-        return c == 'a' || c == 'e' || c == 'i' ||
-               c == 'o' || c == 'u';
+        switch (c) {
+            case 'a': case 'e': case 'i': case 'o': case 'u':
+            case 'A': case 'E': case 'I': case 'O': case 'U':
+                return true;
+            default:
+                return false;
+        }
     }
 }
