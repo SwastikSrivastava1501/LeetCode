@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/3731-find-missing-elements) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
