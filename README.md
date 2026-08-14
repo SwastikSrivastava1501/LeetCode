@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
