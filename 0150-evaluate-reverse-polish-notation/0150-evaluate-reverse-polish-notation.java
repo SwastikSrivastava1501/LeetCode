@@ -2,6 +2,7 @@ import java.util.*;
 
 class Solution {
     public int evalRPN(String[] tokens) {
+
         Stack<Integer> stack = new Stack<>();
 
         for (String token : tokens) {
@@ -20,6 +21,7 @@ class Solution {
                     stack.push(a / b);
                 }
             } else {
+                
                 stack.push(Integer.parseInt(token));
             }
         }
