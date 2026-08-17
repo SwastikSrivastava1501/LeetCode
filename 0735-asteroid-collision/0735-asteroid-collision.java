@@ -1,8 +1,8 @@
 class Solution {
-    public int[] asteroidCollision(int[] asteroids) {
+    public int[] asteroidCollision(int[] ast) {
 
         Stack<Integer> stack = new Stack<>();
-         for(int a : asteroids) {
+         for(int a : ast) {
             if(a > 0) {
                 stack.push(a);
             } else {
