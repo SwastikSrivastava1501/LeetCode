@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0912-sort-an-array) |
@@ -231,12 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Ternary Search
 |  |
