@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0392-is-subsequence) |
 | [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1563-stone-game-v) |
 ## Sorting
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0441-arranging-coins](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0441-arranging-coins) |
 | [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 ## Newton's Method
@@ -314,24 +316,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0155-min-stack) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
