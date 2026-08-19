@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0682-baseball-game) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0037-sudoku-solver) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0704-binary-search) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
