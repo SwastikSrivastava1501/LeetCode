@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0275-h-index-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
