@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0213-house-robber-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0392-is-subsequence) |
+| [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1563-stone-game-v) |
 ## Sorting
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0441-arranging-coins](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0441-arranging-coins) |
+| [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 ## Newton's Method
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -309,10 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -322,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 ## Design
 |  |
