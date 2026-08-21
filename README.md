@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -405,5 +408,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
