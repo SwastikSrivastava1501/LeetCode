@@ -1,48 +1,80 @@
 class Solution {
-    private int[] coins;
-    private int k;
 
     public long findKthSmallest(int[] coins, int k) {
-        this.coins = coins;
-        this.k = k;
-        long l = 1, r = (long) 1e11;
-        while(l < r) {
-            long mid = (l+r) >> 1;
-            if(check(mid)) {
-                r = mid;
+        Arrays.sort(coins);
+        List<Integer> newCoins = new ArrayList<>();
+        for (int x : coins) {
+            boolean flag = true;
+            for (int y : newCoins) {
+                if (x % y == 0) {
+                    flag = false;
+                    break;
+                }
+            }
+            if (flag) {
+                newCoins.add(x);
+            }
+        }
+        coins = newCoins
+            .stream()
+            .mapToInt(i -> i)
+            .toArray();
+
+        int n = coins.length;
+        int m = 1 << n;
+        int[] bitCount = new int[m];
+        long[] lcm = new long[m];
+        long l = k;
+        long r = (long) coins[0] * k + 1;
+
+        for (int mask = 1; mask < m; mask++) {
+            bitCount[mask] = bitCount[mask >> 1] + (mask & 1);
+        }
+
+        lcm[0] = 1;
+        for (int mask = 1; mask < m; mask++) {
+            int preMask = mask & (mask - 1);
+            int i = Integer.numberOfTrailingZeros(mask);
+
+            long tmp = lcm[preMask] / gcd(lcm[preMask], coins[i]);
+            if (tmp <= r / coins[i]) {
+                lcm[mask] = tmp * coins[i];
             } else {
-                l = mid+1;
+                lcm[mask] = r + 1;
+            }
+        }
+
+        while (l < r) {
+            long x = l + (r - l) / 2;
+            if (count(x, m, lcm, bitCount) >= k) {
+                r = x;
+            } else {
+                l = x + 1;
             }
         }
         return l;
     }
 
-    private boolean check(long mx) {
-        long cnt = 0;
-        int n = coins.length;
-        for(int i = 1; i < 1 << n; ++i) {
-            long v = 1;
-            for(int j = 0; j < n; ++j) {
-                if((i >> j & 1) == 1) {
-                    v = lcm(v, coins[j]);
-                    if(v > mx) break;
-                }
-            }
-            int m = Integer.bitCount(i);
-            if(m % 2 == 1) {
-                cnt += mx / v;
+    private long count(long x, int m, long[] lcm, int[] bitCount) {
+        long res = 0;
+        for (int mask = 1; mask < m; mask++) {
+            if (lcm[mask] > x) continue;
+
+            if ((bitCount[mask] & 1) == 1) {
+                res += x / lcm[mask];
             } else {
-                cnt -= mx / v;
+                res -= x / lcm[mask];
             }
         }
-        return cnt >= k;
-    }
-
-    private long lcm(long a, long b) {
-        return a * b / gcd(a, b);
+        return res;
     }
 
     private long gcd(long a, long b) {
-        return b == 0 ? a : gcd(b, a%b);
+        while (b != 0) {
+            long t = b;
+            b = a % b;
+            a = t;
+        }
+        return a;
     }
 }
