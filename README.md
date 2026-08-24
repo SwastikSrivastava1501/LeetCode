@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1563-stone-game-v) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1872-stone-game-viii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1872-stone-game-viii) |
 ## Quickselect
 |  |
 | ------- |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -355,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -367,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/SwastikSrivastava1501/LeetCode/tree/master/2029-stone-game-ix) |
 ## Design
 |  |
